@@ -1,0 +1,2 @@
+# Gambling
+Gacha number sim.
